@@ -7,3 +7,11 @@ import {Component} from 'angular2/core'
 export class TestComponents{
 
 }
+
+//added the git commit test
+
+adasd
+as
+da
+sd
+asda
